@@ -1,7 +1,7 @@
-> **From Voxels to Diagnosis: Automated Brain Tumor Segmentation**
-> *A Comparative Analysis of Volumetric (3D) and Pseudo-3D (2.5D) Deep Learning Architectures.*
+**From Voxels to Diagnosis: Automated Brain Tumor Segmentation**
+*A Comparative Analysis of Volumetric (3D) and Pseudo-3D (2.5D) Deep Learning Architectures.*
 
-## 📌 Overview
+##  Overview
 
 Manual segmentation of brain tumors is a bottleneck in clinical workflows, taking hours of expert radiologist time. This project automates the segmentation of **Edema, Necrotic Core, and Enhancing Tumor** regions using the **BraTS 2021 Dataset**.
 
