@@ -65,4 +65,4 @@ streamlit run app/app.py
 
 
 
-*Built for the [Hackathon Name] 2024.*
+*Built for the Instant-ODC AI Hackathon 2026.*
